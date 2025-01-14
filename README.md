@@ -1,9 +1,9 @@
-[![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)](https://anshulgupta48.github.io)
+[![MasterHead](./assets/github-banner-1.gif)](https://anshulgupta48.github.io)
 
 <h1 align="center">Hi 👋, I'm Anshul Gupta</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="./assets/github-banner-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulgupta48&label=Profile%20views&color=0e75b6&style=flat" alt="anshulgupta48" /> </p>
 
