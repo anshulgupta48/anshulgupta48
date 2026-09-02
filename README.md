@@ -1,7 +1,7 @@
 [![MasterHead](./assets/github-banner.gif)](https://anshulgupta48.github.io)
 
 <h1 align="center">Hi 👋, I'm Anshul Gupta</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India</h3>
+<h3 align="center">A Passionate Software-Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulgupta48&label=Profile%20views&color=0e75b6&style=flat" alt="anshulgupta48" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Sbr1Oeferv47EEeCJItwiqd-A_fk3BAj/view?usp=drive_link](https://drive.google.com/file/d/1Sbr1Oeferv47EEeCJItwiqd-A_fk3BAj/view?usp=drive_link)
 
-### Blogs posts
+### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
