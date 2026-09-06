@@ -24,10 +24,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Monorepos Explained: Why Teams Use pnpm, Turborepo &amp; Nx](https://medium.com/@anshulgupta48/monorepos-explained-why-teams-use-pnpm-turborepo-nx-202b6c80c154?source=rss-5525767b4270------2)
 - [Core Web Vitals Explained: LCP vs INP vs CLS](https://medium.com/@anshulgupta48/core-web-vitals-explained-lcp-vs-inp-vs-cls-add2ec12c7de?source=rss-5525767b4270------2)
 - [DoS Attack vs DDoS Attack: What’s the Difference?](https://medium.com/@anshulgupta48/dos-attack-vs-ddos-attack-whats-the-difference-08424d52ba2d?source=rss-5525767b4270------2)
 - [API vs SDK vs MCP: What’s the Difference?](https://medium.com/@anshulgupta48/api-vs-sdk-vs-mcp-whats-the-difference-c0af8da95cc7?source=rss-5525767b4270------2)
-- [Frontend Rendering Explained: CSR vs SSR vs SSG vs ISR](https://medium.com/@anshulgupta48/frontend-rendering-explained-csr-vs-ssr-vs-ssg-vs-isr-0a8a97cb5f7b?source=rss-5525767b4270------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
