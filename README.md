@@ -24,10 +24,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [React Fiber Architecture Explained: How React Changed the Way It Renders UI](https://medium.com/@anshulgupta48/react-fiber-architecture-explained-how-react-changed-the-way-it-renders-ui-834570524cd5?source=rss-5525767b4270------2)
+- [Web Workers Explained: Dedicated vs Shared vs Service Workers](https://medium.com/@anshulgupta48/web-workers-explained-dedicated-vs-shared-vs-service-workers-563e40e2bb42?source=rss-5525767b4270------2)
 - [Pessimistic vs Optimistic Locking: Understanding Concurrency Control](https://medium.com/@anshulgupta48/pessimistic-vs-optimistic-locking-understanding-concurrency-control-b9acf000ceab?source=rss-5525767b4270------2)
 - [Monorepos Explained: Why Teams Use pnpm, Turborepo &amp; Nx](https://medium.com/@anshulgupta48/monorepos-explained-why-teams-use-pnpm-turborepo-nx-202b6c80c154?source=rss-5525767b4270------2)
-- [Core Web Vitals Explained: LCP vs INP vs CLS](https://medium.com/@anshulgupta48/core-web-vitals-explained-lcp-vs-inp-vs-cls-add2ec12c7de?source=rss-5525767b4270------2)
-- [DoS Attack vs DDoS Attack: What’s the Difference?](https://medium.com/@anshulgupta48/dos-attack-vs-ddos-attack-whats-the-difference-08424d52ba2d?source=rss-5525767b4270------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
