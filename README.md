@@ -24,10 +24,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Webpack Explained: How It Works Behind the Scenes and How Vite Replaced It](https://medium.com/@anshulgupta48/webpack-explained-how-it-works-behind-the-scenes-and-how-vite-replaced-it-0e76a5742890?source=rss-5525767b4270------2)
 - [Browser Rendering Pipeline Explained: From HTML to Pixels + Reflow vs Repaint](https://medium.com/@anshulgupta48/browser-rendering-pipeline-explained-from-html-to-pixels-reflow-vs-repaint-356efbcac7e3?source=rss-5525767b4270------2)
 - [React Fiber Architecture Explained: How React Changed the Way It Renders UI](https://medium.com/@anshulgupta48/react-fiber-architecture-explained-how-react-changed-the-way-it-renders-ui-834570524cd5?source=rss-5525767b4270------2)
 - [Web Workers Explained: Dedicated vs Shared vs Service Workers](https://medium.com/@anshulgupta48/web-workers-explained-dedicated-vs-shared-vs-service-workers-563e40e2bb42?source=rss-5525767b4270------2)
-- [Pessimistic vs Optimistic Locking: Understanding Concurrency Control](https://medium.com/@anshulgupta48/pessimistic-vs-optimistic-locking-understanding-concurrency-control-b9acf000ceab?source=rss-5525767b4270------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
