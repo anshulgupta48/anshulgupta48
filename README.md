@@ -24,10 +24,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Event Loop Explained: Call Stack, Web APIs, Microtasks, and Task Queue](https://medium.com/@anshulgupta48/javascript-event-loop-explained-call-stack-web-apis-microtasks-and-task-queue-0ee3c8a93f8c?source=rss-5525767b4270------2)
 - [JavaScript Engine Explained: How JavaScript Code Gets Executed Behind the Scenes](https://medium.com/@anshulgupta48/javascript-engine-explained-how-javascript-code-gets-executed-behind-the-scenes-16b4d4d57081?source=rss-5525767b4270------2)
 - [Controlled vs Uncontrolled Inputs in React: What’s the Difference?](https://medium.com/@anshulgupta48/controlled-vs-uncontrolled-inputs-in-react-whats-the-difference-401a3fc8bcb8?source=rss-5525767b4270------2)
 - [Webpack Explained: How It Works Behind the Scenes and How Vite Replaced It](https://medium.com/@anshulgupta48/webpack-explained-how-it-works-behind-the-scenes-and-how-vite-replaced-it-0e76a5742890?source=rss-5525767b4270------2)
-- [Browser Rendering Pipeline Explained: From HTML to Pixels + Reflow vs Repaint](https://medium.com/@anshulgupta48/browser-rendering-pipeline-explained-from-html-to-pixels-reflow-vs-repaint-356efbcac7e3?source=rss-5525767b4270------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
