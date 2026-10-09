@@ -24,10 +24,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Hoisting Explained: var vs let vs const + Top Interview Questions](https://medium.com/@anshulgupta48/javascript-hoisting-explained-var-vs-let-vs-const-top-interview-questions-9ac21d14731e?source=rss-5525767b4270------2)
 - [Debouncing vs Throttling in JavaScript: Explained With Real-World Examples](https://medium.com/@anshulgupta48/debouncing-vs-throttling-in-javascript-explained-with-real-world-examples-1357bc1a0d20?source=rss-5525767b4270------2)
 - [JavaScript this Keyword Explained: Objects, Classes, Arrow Functions, and Interview Questions](https://medium.com/@anshulgupta48/javascript-this-keyword-explained-objects-classes-arrow-functions-and-interview-questions-54c5de046683?source=rss-5525767b4270------2)
 - [JavaScript Event Loop Explained: Call Stack, Web APIs, Microtasks, and Task Queue](https://medium.com/@anshulgupta48/javascript-event-loop-explained-call-stack-web-apis-microtasks-and-task-queue-0ee3c8a93f8c?source=rss-5525767b4270------2)
-- [JavaScript Engine Explained: How JavaScript Code Gets Executed Behind the Scenes](https://medium.com/@anshulgupta48/javascript-engine-explained-how-javascript-code-gets-executed-behind-the-scenes-16b4d4d57081?source=rss-5525767b4270------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
