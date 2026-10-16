@@ -24,10 +24,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Promises Explained: Promise.all](https://medium.com/@anshulgupta48/javascript-promises-explained-promise-all-dfe5a3965a0e?source=rss-5525767b4270------2)
 - [JavaScript Prototypes &amp; Prototypal Inheritance: Explained With Examples and Interview Questions](https://medium.com/@anshulgupta48/javascript-prototypes-prototypal-inheritance-explained-with-examples-and-interview-questions-82dec668185c?source=rss-5525767b4270------2)
 - [Functions in JavaScript Explained: map&lpar;&rpar; vs filter&lpar;&rpar; vs reduce&lpar;&rpar; and call&lpar;&rpar; vs apply&lpar;&rpar; vs bind&lpar;&rpar;](https://medium.com/@anshulgupta48/functions-in-javascript-explained-map-vs-filter-vs-reduce-and-call-vs-apply-vs-bind-bb51d741f656?source=rss-5525767b4270------2)
 - [JavaScript Closures Explained: From Basics to Tricky Interview Questions](https://medium.com/@anshulgupta48/javascript-closures-explained-from-basics-to-tricky-interview-questions-9b2c39ce3394?source=rss-5525767b4270------2)
-- [JavaScript Hoisting Explained: var vs let vs const + Top Interview Questions](https://medium.com/@anshulgupta48/javascript-hoisting-explained-var-vs-let-vs-const-top-interview-questions-9ac21d14731e?source=rss-5525767b4270------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
