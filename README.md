@@ -24,10 +24,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Database Internals Explained: How SQL Queries Actually Work &lpar;NULL, WHERE, ORDER BY, Indexes &amp; More&rpar;](https://medium.com/@anshulgupta48/database-internals-explained-how-sql-queries-actually-work-null-where-order-by-indexes-more-b61961054e88?source=rss-5525767b4270------2)
 - [How Google Maps Shows Real-Time Traffic &amp; Calculates ETA: Behind the Scenes](https://medium.com/@anshulgupta48/how-google-maps-shows-real-time-traffic-calculates-eta-behind-the-scenes-4279838e3b0a?source=rss-5525767b4270------2)
 - [Process Scheduler in Operating Systems: Types, Algorithms &amp; Interview Questions](https://medium.com/@anshulgupta48/process-scheduler-in-operating-systems-types-algorithms-interview-questions-3e6bd3e79540?source=rss-5525767b4270------2)
 - [JavaScript Promises Explained: Promise.all](https://medium.com/@anshulgupta48/javascript-promises-explained-promise-all-dfe5a3965a0e?source=rss-5525767b4270------2)
-- [JavaScript Prototypes &amp; Prototypal Inheritance: Explained With Examples and Interview Questions](https://medium.com/@anshulgupta48/javascript-prototypes-prototypal-inheritance-explained-with-examples-and-interview-questions-82dec668185c?source=rss-5525767b4270------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
